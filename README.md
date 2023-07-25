@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, i am Mehmet Cemalettin Uyanık. <br>I graduated from Hacettepe University, Department of Sociology. <br>I've had several jobs unrelated to IT. <br>Then i decided to learn programing at 2021.<br>Since then I have developed myself by attending various bootcamps and completing courses.<br>Currently working at Allianz Turkey as Software Developer Intern.
+Hi there, i am Mehmet Cemalettin Uyanık. <br>I graduated from Hacettepe University, Department of Sociology. <br>I've had several jobs unrelated to IT. <br>Then i decided to learn programing at 2021.<br>Since then I have developed myself by attending various bootcamps and completing courses.<br>Currently working at Allianz Turkey as Intern Software Developer.
 
 
 # 💻 Tech Stack:
